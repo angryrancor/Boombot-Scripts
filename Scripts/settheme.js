@@ -1,4 +1,4 @@
-/**/// Description: Gets theme
+/**/// Description: Sets theme
 /**///
 /**/// Dependencies: None
 /**///
